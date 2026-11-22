@@ -17,6 +17,10 @@
 /.next/
 /out/
 
+# Copied into public/ by prebuild so GitHub Pages can serve them under /kyojin-hour.
+/public/kuromoji/
+/public/sql-wasm.wasm
+
 # production
 /build
 

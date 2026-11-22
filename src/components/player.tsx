@@ -11,6 +11,7 @@ import {
   SheetTitle,
 } from "@/components/ui/sheet";
 import type { AnnotatedToken } from "@/lib/annotate";
+import { withBase } from "@/lib/base-path";
 import { episodePosition, formatClock, positionAfterLanguageSwitch } from "@/lib/player-time";
 import type { PublishedEpisode } from "@/lib/published";
 import { cn } from "@/lib/utils";
@@ -48,7 +49,7 @@ export function Player({ episode }: { episode: PublishedEpisode }) {
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio || !segment) return;
-    const url = lang === "ja" ? segment.jaAudio : segment.enAudio;
+    const url = withBase(lang === "ja" ? segment.jaAudio : segment.enAudio);
     const ratio = pendingRatio.current;
     setAudioError("");
     audio.src = url;

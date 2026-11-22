@@ -90,14 +90,11 @@ The build keeps the Japanese style named `JP` and drops signs, credits, Chinese 
 
 ## Deploy
 
-`render.yaml` is a Render free web service. It does not run the speech step. Commit the published episode and audio first, then:
+GitHub Pages serves the static export at [https://jsboki.github.io/kyojin-hour/](https://jsboki.github.io/kyojin-hour/). `.github/workflows/pages.yml` builds `out/` and deploys it on every push to `main`. In the repository settings, set Pages to deploy from GitHub Actions.
 
-1. In Render, create a Blueprint from this repository (or a web service with the same commands).
-2. Build command: `npm install && npm run build`. Start command: `npm start`.
-3. `npm start` runs `next start --hostname 0.0.0.0 --port ${PORT:-43123}`, so the process binds all interfaces and Render’s `PORT`.
-4. Health check path: `/`. The home page returns 200 without a login.
+The site uses base path `/kyojin-hour`. Anki decks are built in the browser. The kuromoji dictionary is copied into `public/kuromoji` at build time and loaded from `/kyojin-hour/kuromoji/`.
 
-The free service sleeps after a period of inactivity. The filesystem on Render is ephemeral, which is fine: the episode data is in the build, and saved study state is not required. Anki export is generated when you tap the button.
+`render.yaml` is still there if a free web-service slot opens later. Its build command is `npm install && npm run build`, its start command is `npm start` (`next start --hostname 0.0.0.0 --port ${PORT:-43123}`), and its health check path is `/`. The Pages site does not use that process.
 
 Do not commit raw `.ass` or `.srt` files. The public tree should keep only the original scripts, the generated narration, and the app.
 

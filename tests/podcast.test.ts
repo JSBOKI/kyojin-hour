@@ -3,6 +3,7 @@ import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { annotateParagraph, vocabToCsv } from "../src/lib/annotate";
 import { applyGlossary } from "../src/lib/glossary";
+import { withBase } from "../src/lib/base-path";
 import { episodePosition, positionAfterLanguageSwitch } from "../src/lib/player-time";
 import { findVerbatimOverlap } from "../src/lib/verbatim";
 import type { GlossaryEntry, RawToken } from "../src/lib/types";
@@ -19,6 +20,14 @@ const glossary: GlossaryEntry[] = [
   { id: "eren", kind: "character", forms: ["エレン"], reading: "エレン", english: "Eren" },
   { id: "titan", kind: "term", forms: ["巨人"], reading: "きょじん", english: "Titan" },
 ];
+
+describe("pages base path", () => {
+  it("prefixes audio and dictionary files", () => {
+    expect(withBase("/audio/s01e11/ja-01.mp3")).toBe("/kyojin-hour/audio/s01e11/ja-01.mp3");
+    expect(withBase("/kuromoji/base.dat.gz")).toBe("/kyojin-hour/kuromoji/base.dat.gz");
+    expect(withBase("/kyojin-hour/sql-wasm.wasm")).toBe("/kyojin-hour/sql-wasm.wasm");
+  });
+});
 
 describe("language switch keeps the scene fraction", () => {
   it("maps the middle of a Japanese scene onto the English scene", () => {

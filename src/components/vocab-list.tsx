@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
+import { buildApkg, downloadBlob } from "@/lib/anki-client";
 import { vocabToCards, vocabToCsv, type VocabItem } from "@/lib/annotate";
 
 export function VocabList({ episodeId, title, items }: { episodeId: string; title: string; items: VocabItem[] }) {
@@ -24,22 +25,8 @@ export function VocabList({ episodeId, title, items }: { episodeId: string; titl
     setBusy(true);
     setMessage("");
     try {
-      const response = await fetch("/api/export", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          filename: `${episodeId}-vocab.apkg`,
-          cards: vocabToCards(items, episodeId),
-        }),
-      });
-      if (!response.ok) throw new Error("Export failed");
-      const blob = await response.blob();
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement("a");
-      link.href = url;
-      link.download = `${episodeId}-vocab.apkg`;
-      link.click();
-      URL.revokeObjectURL(url);
+      const blob = await buildApkg(vocabToCards(items, episodeId));
+      downloadBlob(blob, `${episodeId}-vocab.apkg`);
       setMessage("Anki deck downloaded. Import the .apkg file in Anki.");
     } catch {
       setMessage("Anki export did not finish. The spreadsheet is still available.");

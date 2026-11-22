@@ -38,6 +38,11 @@ export async function loadEpisode(id: string): Promise<PublishedEpisode | null> 
   return JSON.parse(await readFile(file, "utf8")) as PublishedEpisode;
 }
 
+export async function episodeStaticParams() {
+  const series = await loadSeries();
+  return series.seasons.flatMap((season) => season.episodes.map((episode) => ({ id: episode.id })));
+}
+
 export function findEpisode(series: SeriesCatalog, id: string) {
   for (const season of series.seasons) {
     const episode = season.episodes.find((item) => item.id === id);

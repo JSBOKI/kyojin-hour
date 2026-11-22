@@ -1,6 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { loadKuromoji } from "@/lib/kuromoji-client";
 import type { GlossaryEntry } from "@/lib/types";
 
 const labels: Record<GlossaryEntry["kind"], string> = {
@@ -11,6 +12,45 @@ const labels: Record<GlossaryEntry["kind"], string> = {
 
 export function GlossaryList({ entries }: { entries: GlossaryEntry[] }) {
   const [query, setQuery] = useState("");
+  const [analyzer, setAnalyzer] = useState("Word analyzer is loading from the site dictionary.");
+  const [reading, setReading] = useState("");
+
+  useEffect(() => {
+    let cancelled = false;
+    loadKuromoji()
+      .then((tokenizer) => {
+        if (cancelled) return;
+        const tokens = tokenizer.tokenize("巨人");
+        const heard = tokens.map((token) => token.reading || token.surface_form).join("");
+        setAnalyzer(heard ? `Word analyzer ready. 巨人 reads ${heard}.` : "Word analyzer ready.");
+      })
+      .catch(() => {
+        if (!cancelled) setAnalyzer("Word analyzer could not load. Glossary entries still work.");
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!query.trim()) {
+      setReading("");
+      return;
+    }
+    let cancelled = false;
+    loadKuromoji()
+      .then((tokenizer) => {
+        if (cancelled) return;
+        const tokens = tokenizer.tokenize(query.trim());
+        setReading(tokens.map((token) => token.reading || token.surface_form).filter(Boolean).join(" "));
+      })
+      .catch(() => {
+        if (!cancelled) setReading("");
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [query]);
   const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
     if (!needle) return entries;
@@ -45,6 +85,8 @@ export function GlossaryList({ entries }: { entries: GlossaryEntry[] }) {
         placeholder="Titan, Eren, 壁"
         className="h-14 rounded-2xl border bg-card px-4 text-xl"
       />
+      <p className="text-lg leading-relaxed">{analyzer}</p>
+      {reading ? <p className="text-2xl">Reading: {reading}</p> : null}
       {filtered.length === 0 ? (
         <p className="text-xl">Nothing matches that search.</p>
       ) : null}

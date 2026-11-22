@@ -1,7 +1,13 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { VocabList } from "@/components/vocab-list";
-import { findEpisode, loadEpisode, loadSeries } from "@/lib/library";
+import { episodeStaticParams, findEpisode, loadEpisode, loadSeries } from "@/lib/library";
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return episodeStaticParams();
+}
 
 export default async function WordsPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;

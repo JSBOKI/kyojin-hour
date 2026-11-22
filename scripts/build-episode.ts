@@ -203,7 +203,9 @@ async function ensureRaw(
 
 async function loadTokenizer(): Promise<(text: string) => RawToken[]> {
   const kuromoji = require("kuromoji") as typeof import("kuromoji");
-  const dicPath = path.join(path.dirname(require.resolve("kuromoji/package.json")), "dict");
+  const staticDict = path.join(root, "public/kuromoji");
+  const packagedDict = path.join(path.dirname(require.resolve("kuromoji/package.json")), "dict");
+  const dicPath = existsSync(path.join(staticDict, "base.dat.gz")) ? staticDict : packagedDict;
   const tokenizer = await new Promise<import("kuromoji").Tokenizer<import("kuromoji").IpadicFeatures>>(
     (resolve, reject) => {
       kuromoji.builder({ dicPath }).build((error, built) => (error ? reject(error) : resolve(built)));
