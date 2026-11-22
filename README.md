@@ -6,6 +6,8 @@ Season 1 Episode 11, “Icon,” is the first recording. It runs about ten minut
 
 This is study material, not a substitute for the show. Watch the episode on a legal copy you already have. The podcast does not host video, and it does not use the anime’s dialogue.
 
+Kyojin Hour is an unofficial, non-commercial fan learning project. The scripts and the spoken narration are original retellings. They are not the anime’s dialogue, subtitles, or soundtrack. *Attack on Titan* / *Shingeki no Kyojin* belongs to its rightsholders.
+
 ## Listen
 
 ```bash
@@ -90,13 +92,14 @@ The build keeps the Japanese style named `JP` and drops signs, credits, Chinese 
 
 `render.yaml` is a Render free web service. It does not run the speech step. Commit the published episode and audio first, then:
 
-1. Connect the private repository in Render.
-2. Use the Blueprint, or set build command `npm install && npm run build` and start command `npm start`.
-3. The service binds `0.0.0.0` and Render’s `PORT`.
+1. In Render, create a Blueprint from this repository (or a web service with the same commands).
+2. Build command: `npm install && npm run build`. Start command: `npm start`.
+3. `npm start` runs `next start --hostname 0.0.0.0 --port ${PORT:-43123}`, so the process binds all interfaces and Render’s `PORT`.
+4. Health check path: `/`. The home page returns 200 without a login.
 
 The free service sleeps after a period of inactivity. The filesystem on Render is ephemeral, which is fine: the episode data is in the build, and saved study state is not required. Anki export is generated when you tap the button.
 
-Keep the repository private. The narration is original, but it is still personal study material built around a copyrighted series.
+Do not commit raw `.ass` or `.srt` files. The public tree should keep only the original scripts, the generated narration, and the app.
 
 ## Tests
 
