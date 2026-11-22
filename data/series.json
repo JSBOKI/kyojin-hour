@@ -1,0 +1,58 @@
+{
+  "seriesId": "shingeki-no-kyojin",
+  "title": "進撃の巨人",
+  "englishTitle": "Attack on Titan",
+  "learner": "Jeremy",
+  "addEpisode": "Add the episode to this catalog, write an original retelling at content/episodes/<id>.ts, optionally let the build fetch private subtitles for a vocabulary check, then run npm run episode -- <id>.",
+  "seasons": [
+    {
+      "season": 1,
+      "label": "Season 1",
+      "episodes": [
+        {"id": "s01e01", "season": 1, "episode": 1, "titleJa": "二千年後の君へ", "titleEn": "To You, in 2000 Years"},
+        {"id": "s01e02", "season": 1, "episode": 2, "titleJa": "その日", "titleEn": "That Day"},
+        {"id": "s01e03", "season": 1, "episode": 3, "titleJa": "絶望の中で鈍く光る", "titleEn": "A Dim Light Amid Despair"},
+        {"id": "s01e04", "season": 1, "episode": 4, "titleJa": "解散式の夜", "titleEn": "The Night of the Closing Ceremony"},
+        {"id": "s01e05", "season": 1, "episode": 5, "titleJa": "初陣", "titleEn": "First Battle"},
+        {"id": "s01e06", "season": 1, "episode": 6, "titleJa": "少女が見た世界", "titleEn": "The World the Girl Saw"},
+        {"id": "s01e07", "season": 1, "episode": 7, "titleJa": "小さな刃", "titleEn": "Small Blade"},
+        {"id": "s01e08", "season": 1, "episode": 8, "titleJa": "心臓の鼓動が聞こえる", "titleEn": "I Can Hear His Heartbeat"},
+        {"id": "s01e09", "season": 1, "episode": 9, "titleJa": "左腕の行方", "titleEn": "Whereabouts of His Left Arm"},
+        {"id": "s01e10", "season": 1, "episode": 10, "titleJa": "応える", "titleEn": "Response"},
+        {
+          "id": "s01e11",
+          "season": 1,
+          "episode": 11,
+          "titleJa": "偶像",
+          "titleEn": "Icon",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 11 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2011%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 11.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/11/Attack%20On%20Titan%20-%2011.srt"
+            }
+          }
+        },
+        {"id": "s01e12", "season": 1, "episode": 12, "titleJa": "傷", "titleEn": "Wound"},
+        {"id": "s01e13", "season": 1, "episode": 13, "titleJa": "原初的欲求", "titleEn": "Primal Desire"},
+        {"id": "s01e14", "season": 1, "episode": 14, "titleJa": "まだ目を見れない", "titleEn": "Can't Look into His Eyes Yet"},
+        {"id": "s01e15", "season": 1, "episode": 15, "titleJa": "特別作戦班", "titleEn": "Special Operations Squad"},
+        {"id": "s01e16", "season": 1, "episode": 16, "titleJa": "今、何をすべきか", "titleEn": "What Needs to Be Done Now"},
+        {"id": "s01e17", "season": 1, "episode": 17, "titleJa": "女型の巨人", "titleEn": "Female Titan"},
+        {"id": "s01e18", "season": 1, "episode": 18, "titleJa": "巨木の森", "titleEn": "Forest of Giant Trees"},
+        {"id": "s01e19", "season": 1, "episode": 19, "titleJa": "噛みつく", "titleEn": "Bite"},
+        {"id": "s01e20", "season": 1, "episode": 20, "titleJa": "エルヴィン・スミス", "titleEn": "Erwin Smith"},
+        {"id": "s01e21", "season": 1, "episode": 21, "titleJa": "鉄槌", "titleEn": "Crushing Blow"},
+        {"id": "s01e22", "season": 1, "episode": 22, "titleJa": "敗者", "titleEn": "The Defeated"},
+        {"id": "s01e23", "season": 1, "episode": 23, "titleJa": "微笑み", "titleEn": "Smile"},
+        {"id": "s01e24", "season": 1, "episode": 24, "titleJa": "慈悲", "titleEn": "Mercy"},
+        {"id": "s01e25", "season": 1, "episode": 25, "titleJa": "壁", "titleEn": "Wall"}
+      ]
+    }
+  ]
+}
