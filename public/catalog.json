@@ -1,11 +1,65 @@
 {
-  "generatedAt": "2026-11-22T01:08:35.529Z",
+  "generatedAt": "2026-11-22T02:22:10.417Z",
   "episodes": {
     "s01e11": {
       "id": "s01e11",
       "titleEn": "Icon",
       "jaSeconds": 624,
       "segments": 11
+    },
+    "s01e12": {
+      "id": "s01e12",
+      "titleEn": "Wound",
+      "jaSeconds": 601,
+      "segments": 15
+    },
+    "s01e13": {
+      "id": "s01e13",
+      "titleEn": "Primal Desire",
+      "jaSeconds": 598,
+      "segments": 15
+    },
+    "s01e14": {
+      "id": "s01e14",
+      "titleEn": "Can't Look into His Eyes Yet",
+      "jaSeconds": 596,
+      "segments": 15
+    },
+    "s01e15": {
+      "id": "s01e15",
+      "titleEn": "Special Operations Squad",
+      "jaSeconds": 626,
+      "segments": 15
+    },
+    "s01e16": {
+      "id": "s01e16",
+      "titleEn": "What Needs to Be Done Now",
+      "jaSeconds": 649,
+      "segments": 15
+    },
+    "s01e17": {
+      "id": "s01e17",
+      "titleEn": "Female Titan",
+      "jaSeconds": 641,
+      "segments": 15
+    },
+    "s01e18": {
+      "id": "s01e18",
+      "titleEn": "Forest of Giant Trees",
+      "jaSeconds": 656,
+      "segments": 15
+    },
+    "s01e19": {
+      "id": "s01e19",
+      "titleEn": "Bite",
+      "jaSeconds": 662,
+      "segments": 15
+    },
+    "s01e20": {
+      "id": "s01e20",
+      "titleEn": "Erwin Smith",
+      "jaSeconds": 669,
+      "segments": 15
     }
   }
 }

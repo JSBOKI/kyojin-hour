@@ -103,8 +103,8 @@ async function main() {
     });
   }
 
-  const jaSeconds = withAudio.reduce((sum, segment) => sum + segment.jaDuration, 0);
-  const enSeconds = withAudio.reduce((sum, segment) => sum + segment.enDuration, 0);
+  const jaSeconds = Math.round(withAudio.reduce((sum, segment) => sum + segment.jaDuration, 0));
+  const enSeconds = Math.round(withAudio.reduce((sum, segment) => sum + segment.enDuration, 0));
   const published = {
     id: source.id,
     season: source.season,
@@ -115,8 +115,8 @@ async function main() {
     voices: { ja: jaVoice, en: enVoice },
     stats: {
       segments: withAudio.length,
-      jaSeconds: Math.round(jaSeconds),
-      enSeconds: Math.round(enSeconds),
+      jaSeconds,
+      enSeconds,
       vocab: vocab.length,
     },
     segments: withAudio,
@@ -130,7 +130,7 @@ async function main() {
   await writeFile(path.join(outDir, `${id}.json`), JSON.stringify(published));
   await writeCatalog();
   console.log(
-    `Wrote public/episodes/${id}.json — Japanese ${Math.round(jaSeconds / 60)} min ${Math.round(jaSeconds % 60)} sec, English ${Math.round(enSeconds / 60)} min ${Math.round(enSeconds % 60)} sec, ${vocab.length} study words.`,
+    `Wrote public/episodes/${id}.json — Japanese ${Math.floor(jaSeconds / 60)} min ${jaSeconds % 60} sec, English ${Math.floor(enSeconds / 60)} min ${enSeconds % 60} sec, ${vocab.length} study words.`,
   );
 }
 
