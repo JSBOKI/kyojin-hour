@@ -114,6 +114,18 @@
       "titleEn": "Soldier",
       "jaSeconds": 614,
       "segments": 15
+    },
+    "s02e05": {
+      "id": "s02e05",
+      "titleEn": "Historia",
+      "jaSeconds": 606,
+      "segments": 15
+    },
+    "s02e06": {
+      "id": "s02e06",
+      "titleEn": "Warrior",
+      "jaSeconds": 603,
+      "segments": 15
     }
   }
 }
