@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:22:10.417Z",
+  "generatedAt": "2026-11-24T21:33:35.442Z",
   "episodes": {
     "s01e11": {
       "id": "s01e11",
@@ -59,6 +59,18 @@
       "id": "s01e20",
       "titleEn": "Erwin Smith",
       "jaSeconds": 669,
+      "segments": 15
+    },
+    "s01e21": {
+      "id": "s01e21",
+      "titleEn": "Crushing Blow",
+      "jaSeconds": 651,
+      "segments": 15
+    },
+    "s01e22": {
+      "id": "s01e22",
+      "titleEn": "The Defeated",
+      "jaSeconds": 663,
       "segments": 15
     }
   }

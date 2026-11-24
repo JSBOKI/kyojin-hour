@@ -80,6 +80,26 @@
     {"id": "scout", "kind": "term", "forms": ["索敵"], "reading": "さくてき", "english": "scouting"},
     {"id": "recruit", "kind": "term", "forms": ["新兵"], "reading": "しんぺい", "english": "recruit"},
     {"id": "experiment", "kind": "term", "forms": ["実験"], "reading": "じっけん", "english": "experiment", "note": "Hange's tests on captured Titans, and later on Eren's transformation."},
-    {"id": "hearing", "kind": "term", "forms": ["審議"], "reading": "しんぎ", "english": "hearing", "note": "The military hearing that decides who will have custody of Eren."}
+    {"id": "hearing", "kind": "term", "forms": ["審議"], "reading": "しんぎ", "english": "hearing", "note": "The military hearing that decides who will have custody of Eren."},
+    {"id": "hitch", "kind": "character", "forms": ["ヒッチ"], "reading": "ヒッチ", "english": "Hitch", "note": "Hitch Dreyse, a Military Police recruit stationed near Annie."},
+    {"id": "marlo", "kind": "character", "forms": ["マルロ"], "reading": "マルロ", "english": "Marlo", "note": "Marlo Freudenberg, a Military Police recruit who still treats the rules as real."},
+    {"id": "hardening", "kind": "term", "forms": ["硬化"], "reading": "こうか", "english": "hardening", "note": "The ability to harden a Titan's body, seen on the Female Titan."},
+    {"id": "capital", "kind": "place", "forms": ["王都"], "reading": "おうと", "english": "royal capital", "note": "The capital inside Wall Sina. The escort story says Eren is being taken there."},
+    {"id": "royal-gov", "kind": "term", "forms": ["王政"], "reading": "おうせい", "english": "royal government", "note": "The government inside the walls. The Survey Corps cannot treat it as a simple ally."},
+    {"id": "escort", "kind": "term", "forms": ["護送"], "reading": "ごそう", "english": "escort", "note": "The public story: Eren is escorted through Stohess. The real purpose is a trap."},
+    {"id": "underground", "kind": "place", "forms": ["地下"], "reading": "ちか", "english": "underground", "note": "The underground passage in Stohess. A Titan would have little room to appear there."},
+    {"id": "remains", "kind": "term", "forms": ["遺体"], "reading": "いたい", "english": "remains", "note": "Bodies left by the expedition. Not every one of them can be carried home."},
+    {"id": "missing", "kind": "term", "forms": ["行方不明"], "reading": "ゆくえふめい", "english": "missing", "note": "Unaccounted for. Not confirmed dead, and not returned."},
+    {"id": "crushing-blow", "kind": "term", "forms": ["鉄槌"], "reading": "てっつい", "english": "crushing blow", "note": "A heavy strike. Here it is also what a failed best plan feels like."},
+    {"id": "defeated", "kind": "term", "forms": ["敗者"], "reading": "はいしゃ", "english": "the defeated", "note": "The side that lost. After the expedition, the Survey Corps uses the word for itself."},
+    {"id": "mercy", "kind": "term", "forms": ["慈悲"], "reading": "じひ", "english": "mercy", "note": "Holding back a killing blow. The delay is paid for by other soldiers."},
+    {"id": "smile", "kind": "term", "forms": ["微笑み"], "reading": "ほほえみ", "english": "smile", "note": "Annie's expression, which does not match the request being made of her."},
+    {"id": "damage", "kind": "term", "forms": ["被害"], "reading": "ひがい", "english": "damage", "note": "Harm done to Stohess and the people living there."},
+    {"id": "residents", "kind": "term", "forms": ["住民"], "reading": "じゅうみん", "english": "residents", "note": "People who live in the district and did not agree to a battlefield."},
+    {"id": "humanity", "kind": "term", "forms": ["人類"], "reading": "じんるい", "english": "humanity", "note": "Humankind inside the walls, the thing the operation claims to protect."},
+    {"id": "execution", "kind": "term", "forms": ["処刑"], "reading": "しょけい", "english": "execution", "note": "The threat held over Eren, and over the Survey Corps, if the operation fails."},
+    {"id": "nape", "kind": "term", "forms": ["うなじ"], "reading": "うなじ", "english": "nape", "note": "The back of the neck, where a soldier cuts a Titan."},
+    {"id": "evidence", "kind": "term", "forms": ["証拠"], "reading": "しょうこ", "english": "evidence"},
+    {"id": "classmate", "kind": "term", "forms": ["同期"], "reading": "どうき", "english": "classmate", "note": "A soldier from the same training class."}
   ]
 }

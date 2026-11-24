@@ -274,35 +274,95 @@
           "season": 1,
           "episode": 21,
           "titleJa": "鉄槌",
-          "titleEn": "Crushing Blow"
+          "titleEn": "Crushing Blow",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 21 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2021%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 21.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/21/Attack%20On%20Titan%20-%2021.srt"
+            }
+          }
         },
         {
           "id": "s01e22",
           "season": 1,
           "episode": 22,
           "titleJa": "敗者",
-          "titleEn": "The Defeated"
+          "titleEn": "The Defeated",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 22 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2022%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 22.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/22/Attack%20On%20Titan%20-%2022.srt"
+            }
+          }
         },
         {
           "id": "s01e23",
           "season": 1,
           "episode": 23,
           "titleJa": "微笑み",
-          "titleEn": "Smile"
+          "titleEn": "Smile",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 23 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2023%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 23.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/23/Attack%20On%20Titan%20-%2023.srt"
+            }
+          }
         },
         {
           "id": "s01e24",
           "season": 1,
           "episode": 24,
           "titleJa": "慈悲",
-          "titleEn": "Mercy"
+          "titleEn": "Mercy",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 24 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2024%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 24.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/24/Attack%20On%20Titan%20-%2024.srt"
+            }
+          }
         },
         {
           "id": "s01e25",
           "season": 1,
           "episode": 25,
           "titleJa": "壁",
-          "titleEn": "Wall"
+          "titleEn": "Wall",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 25 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2025%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 25.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/25/Attack%20On%20Titan%20-%2025.srt"
+            }
+          }
         }
       ]
     }

@@ -2,7 +2,7 @@
 
 A personal Japanese listening podcast for Jeremy. Each episode of *Shingeki no Kyojin* (Attack on Titan) becomes an original scene-by-scene retelling, told twice: once in intermediate Japanese, once in English. A large Japanese / English control switches the voice and keeps the same scene.
 
-Season 1 Episodes 11 through 20 are recorded. Each one runs about eight to twelve minutes in Japanese and in English.
+Season 1 Episodes 11 through 25 are recorded. The later episodes run about ten to eleven minutes in Japanese and about nine minutes in English.
 
 This is study material, not a substitute for the show. Watch the episode on a legal copy you already have. The podcast does not host video, and it does not use the anime’s dialogue.
 
