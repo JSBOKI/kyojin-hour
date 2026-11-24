@@ -282,6 +282,18 @@
       "titleEn": "That Day",
       "jaSeconds": 627,
       "segments": 15
+    },
+    "s03e21": {
+      "id": "s03e21",
+      "titleEn": "Attack Titan",
+      "jaSeconds": 639,
+      "segments": 15
+    },
+    "s03e22": {
+      "id": "s03e22",
+      "titleEn": "The Other Side of the Wall",
+      "jaSeconds": 638,
+      "segments": 15
     }
   }
 }
