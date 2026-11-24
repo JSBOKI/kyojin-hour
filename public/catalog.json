@@ -72,6 +72,18 @@
       "titleEn": "The Defeated",
       "jaSeconds": 663,
       "segments": 15
+    },
+    "s01e23": {
+      "id": "s01e23",
+      "titleEn": "Smile",
+      "jaSeconds": 642,
+      "segments": 15
+    },
+    "s01e24": {
+      "id": "s01e24",
+      "titleEn": "Mercy",
+      "jaSeconds": 632,
+      "segments": 15
     }
   }
 }
