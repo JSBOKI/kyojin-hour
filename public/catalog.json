@@ -222,6 +222,18 @@
       "titleEn": "Friends",
       "jaSeconds": 620,
       "segments": 15
+    },
+    "s03e11": {
+      "id": "s03e11",
+      "titleEn": "Bystander",
+      "jaSeconds": 605,
+      "segments": 15
+    },
+    "s03e12": {
+      "id": "s03e12",
+      "titleEn": "Night of the Battle to Retake the Wall",
+      "jaSeconds": 623,
+      "segments": 15
     }
   }
 }
