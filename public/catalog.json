@@ -246,6 +246,18 @@
       "titleEn": "Thunder Spears",
       "jaSeconds": 628,
       "segments": 15
+    },
+    "s03e15": {
+      "id": "s03e15",
+      "titleEn": "Descent",
+      "jaSeconds": 625,
+      "segments": 15
+    },
+    "s03e16": {
+      "id": "s03e16",
+      "titleEn": "Perfect Game",
+      "jaSeconds": 620,
+      "segments": 15
     }
   }
 }
