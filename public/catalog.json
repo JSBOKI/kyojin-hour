@@ -102,6 +102,18 @@
       "titleEn": "I'm Home",
       "jaSeconds": 623,
       "segments": 15
+    },
+    "s02e03": {
+      "id": "s02e03",
+      "titleEn": "Southwestward",
+      "jaSeconds": 601,
+      "segments": 15
+    },
+    "s02e04": {
+      "id": "s02e04",
+      "titleEn": "Soldier",
+      "jaSeconds": 614,
+      "segments": 15
     }
   }
 }
