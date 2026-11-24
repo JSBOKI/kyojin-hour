@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:33:35.442Z",
+  "generatedAt": "2026-11-24T22:06:29.288Z",
   "episodes": {
     "s01e11": {
       "id": "s01e11",
@@ -89,6 +89,18 @@
       "id": "s01e25",
       "titleEn": "Wall",
       "jaSeconds": 652,
+      "segments": 15
+    },
+    "s02e01": {
+      "id": "s02e01",
+      "titleEn": "Beast Titan",
+      "jaSeconds": 621,
+      "segments": 15
+    },
+    "s02e02": {
+      "id": "s02e02",
+      "titleEn": "I'm Home",
+      "jaSeconds": 623,
       "segments": 15
     }
   }

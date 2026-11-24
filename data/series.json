@@ -365,6 +365,240 @@
           }
         }
       ]
+    },
+    {
+      "season": 2,
+      "label": "Season 2",
+      "episodes": [
+        {
+          "id": "s02e01",
+          "season": 2,
+          "episode": 1,
+          "titleJa": "獣の巨人",
+          "titleEn": "Beast Titan",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 01 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2001%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 26 (1).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2026%20%281%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e02",
+          "season": 2,
+          "episode": 2,
+          "titleJa": "ただいま",
+          "titleEn": "I'm Home",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 02 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2002%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 27 (2).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2027%20%282%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e03",
+          "season": 2,
+          "episode": 3,
+          "titleJa": "西南へ",
+          "titleEn": "Southwestward",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 03 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2003%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 28 (3).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2028%20%283%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e04",
+          "season": 2,
+          "episode": 4,
+          "titleJa": "兵士",
+          "titleEn": "Soldier",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 04 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2004%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 29 (4).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2029%20%284%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e05",
+          "season": 2,
+          "episode": 5,
+          "titleJa": "ヒストリア",
+          "titleEn": "Historia",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 05 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2005%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 30 (5).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2030%20%285%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e06",
+          "season": 2,
+          "episode": 6,
+          "titleJa": "戦士",
+          "titleEn": "Warrior",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 06 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2006%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 31 (6).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2031%20%286%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e07",
+          "season": 2,
+          "episode": 7,
+          "titleJa": "打・投・極",
+          "titleEn": "Close Combat",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 07 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2007%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 32 (7).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2032%20%287%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e08",
+          "season": 2,
+          "episode": 8,
+          "titleJa": "追う者",
+          "titleEn": "The Hunters",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 08 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2008%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 33 (8).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2033%20%288%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e09",
+          "season": 2,
+          "episode": 9,
+          "titleJa": "開口",
+          "titleEn": "Opening",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 09 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2009%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 34 (9).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2034%20%289%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e10",
+          "season": 2,
+          "episode": 10,
+          "titleJa": "子供",
+          "titleEn": "Children",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 10 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2010%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin S2 - 35 (10).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20S2%20-%2035%20%2810%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e11",
+          "season": 2,
+          "episode": 11,
+          "titleJa": "突撃",
+          "titleEn": "Charge",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 11 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2011%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin Season 2 - 36 (11).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20Season%202%20-%2036%20%2811%29.ass"
+            }
+          }
+        },
+        {
+          "id": "s02e12",
+          "season": 2,
+          "episode": 12,
+          "titleJa": "叫び",
+          "titleEn": "Scream",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Attack on Titan S2 - 12 [1080p x265 Ma10p AAC].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Attack%20on%20Titan%20S2%20-%2012%20%5B1080p%20x265%20Ma10p%20AAC%5D.ass"
+            },
+            "en": {
+              "group": "HorribleSubs",
+              "filename": "Shingeki no Kyojin Season 2 - 37 (12).ass",
+              "url": "https://kitsunekko.net/subtitles/Shingeki%20no%20Kyojin%20S2/Shingeki%20no%20Kyojin%20Season%202%20-%2037%20%2812%29.ass"
+            }
+          }
+        }
+      ]
     }
   ]
 }

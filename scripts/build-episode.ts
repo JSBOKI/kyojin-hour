@@ -147,9 +147,14 @@ async function loadPrivateCues(
   const tokenize = jaPath ? await loadTokenizer() : null;
   if (jaPath) {
     const text = readFileSync(jaPath, "utf8");
-    const kept = classifyCues(parseAss(text), {
+    const parsed = parseAss(text);
+    const dialogueStyles = [...new Set(parsed.map((cue) => cue.style))].filter((style) => {
+      if (/^(op|ed)([-_]|$)/i.test(style)) return false;
+      return /jp/i.test(style);
+    });
+    const kept = classifyCues(parsed, {
       role: "ja",
-      keepStyles: ["JP"],
+      keepStyles: dialogueStyles.length ? dialogueStyles : ["JP"],
       songStyles: ["OP-JP", "ED-JP", "ED-JP-2"],
     }).filter((cue) => cue.kind === "dialogue");
     for (const cue of kept) {

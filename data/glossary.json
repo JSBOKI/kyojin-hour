@@ -100,6 +100,23 @@
     {"id": "execution", "kind": "term", "forms": ["処刑"], "reading": "しょけい", "english": "execution", "note": "The threat held over Eren, and over the Survey Corps, if the operation fails."},
     {"id": "nape", "kind": "term", "forms": ["うなじ"], "reading": "うなじ", "english": "nape", "note": "The back of the neck, where a soldier cuts a Titan."},
     {"id": "evidence", "kind": "term", "forms": ["証拠"], "reading": "しょうこ", "english": "evidence"},
-    {"id": "classmate", "kind": "term", "forms": ["同期"], "reading": "どうき", "english": "classmate", "note": "A soldier from the same training class."}
+    {"id": "classmate", "kind": "term", "forms": ["同期"], "reading": "どうき", "english": "classmate", "note": "A soldier from the same training class."},
+    {"id": "beast", "kind": "term", "forms": ["獣の巨人"], "reading": "けもののきょじん", "english": "Beast Titan", "note": "A Titan that is not mindless. It can speak, and it throws."},
+    {"id": "mike", "kind": "character", "forms": ["ミケ"], "reading": "ミケ", "english": "Mike", "note": "Mike Zacharias, a Survey Corps squad leader who meets the Beast Titan."},
+    {"id": "nanaba", "kind": "character", "forms": ["ナナバ"], "reading": "ナナバ", "english": "Nanaba", "note": "A Survey Corps soldier at Utgard Castle."},
+    {"id": "gelgar", "kind": "character", "forms": ["ゲルガー"], "reading": "ゲルガー", "english": "Gelgar", "note": "A Survey Corps soldier who holds the tower at Utgard."},
+    {"id": "lynne", "kind": "character", "forms": ["リーネ"], "reading": "リーネ", "english": "Lynne", "note": "A Survey Corps soldier beside Nanaba at Utgard."},
+    {"id": "hannes", "kind": "character", "forms": ["ハンネス"], "reading": "ハンネス", "english": "Hannes", "note": "A Garrison soldier from Shiganshina who stays near Eren."},
+    {"id": "nick", "kind": "character", "forms": ["ニック"], "reading": "ニック", "english": "Nick", "note": "Pastor Nick. He has seen what is inside the wall and does not explain it freely."},
+    {"id": "moblit", "kind": "character", "forms": ["モブリット"], "reading": "モブリット", "english": "Moblit", "note": "Hange's aide."},
+    {"id": "marcel", "kind": "character", "forms": ["マルセル"], "reading": "マルセル", "english": "Marcel", "note": "A warrior Ymir remembers. His choice is part of why she is still here."},
+    {"id": "reiss", "kind": "term", "forms": ["レイス"], "reading": "レイス", "english": "Reiss", "note": "Historia's family name, hidden under the name Christa."},
+    {"id": "utgard", "kind": "place", "forms": ["ウトガルド城"], "reading": "ウトガルドじょう", "english": "Utgard Castle", "note": "A ruined castle. The 104th spends a night there without enough gear."},
+    {"id": "ragako", "kind": "place", "forms": ["ラガコ村"], "reading": "ラガコむら", "english": "Ragako Village", "note": "Connie's village. The people are gone, and there is no hole in the wall to explain it."},
+    {"id": "ehrmich", "kind": "place", "forms": ["エルミハ区"], "reading": "エルミハく", "english": "Ehrmich District"},
+    {"id": "warrior", "kind": "term", "forms": ["戦士"], "reading": "せんし", "english": "Warrior", "note": "The name Reiner uses for himself and Bertholdt. It is not the same as soldier."},
+    {"id": "coordinate", "kind": "term", "forms": ["座標"], "reading": "ざひょう", "english": "Coordinate", "note": "The power in Eren's scream that can turn other Titans."},
+    {"id": "hometown", "kind": "term", "forms": ["故郷"], "reading": "こきょう", "english": "hometown", "note": "Where a person is from. For the warriors, it is outside the walls."},
+    {"id": "priest", "kind": "term", "forms": ["司祭"], "reading": "しさい", "english": "priest", "note": "A church official. Nick is one, and he is keeping a wall secret."}
   ]
 }
