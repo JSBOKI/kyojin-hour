@@ -258,6 +258,18 @@
       "titleEn": "Perfect Game",
       "jaSeconds": 620,
       "segments": 15
+    },
+    "s03e17": {
+      "id": "s03e17",
+      "titleEn": "Hero",
+      "jaSeconds": 627,
+      "segments": 15
+    },
+    "s03e18": {
+      "id": "s03e18",
+      "titleEn": "Midnight Sun",
+      "jaSeconds": 616,
+      "segments": 15
     }
   }
 }
