@@ -198,6 +198,18 @@
       "titleEn": "Sin",
       "jaSeconds": 600,
       "segments": 15
+    },
+    "s03e07": {
+      "id": "s03e07",
+      "titleEn": "Wish",
+      "jaSeconds": 600,
+      "segments": 15
+    },
+    "s03e08": {
+      "id": "s03e08",
+      "titleEn": "Outside the Walls of Orvud District",
+      "jaSeconds": 609,
+      "segments": 15
     }
   }
 }
