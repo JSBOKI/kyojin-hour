@@ -210,6 +210,18 @@
       "titleEn": "Outside the Walls of Orvud District",
       "jaSeconds": 609,
       "segments": 15
+    },
+    "s03e09": {
+      "id": "s03e09",
+      "titleEn": "Ruler of the Walls",
+      "jaSeconds": 614,
+      "segments": 15
+    },
+    "s03e10": {
+      "id": "s03e10",
+      "titleEn": "Friends",
+      "jaSeconds": 620,
+      "segments": 15
     }
   }
 }
