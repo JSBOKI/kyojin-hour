@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:06:29.288Z",
+  "generatedAt": "2026-11-24T23:13:17.639Z",
   "episodes": {
     "s01e11": {
       "id": "s01e11",
@@ -161,6 +161,18 @@
       "id": "s02e12",
       "titleEn": "Scream",
       "jaSeconds": 623,
+      "segments": 15
+    },
+    "s03e01": {
+      "id": "s03e01",
+      "titleEn": "Smoke Signal",
+      "jaSeconds": 606,
+      "segments": 15
+    },
+    "s03e02": {
+      "id": "s03e02",
+      "titleEn": "Pain",
+      "jaSeconds": 602,
       "segments": 15
     }
   }

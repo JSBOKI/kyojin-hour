@@ -599,6 +599,452 @@
           }
         }
       ]
+    },
+    {
+      "season": 3,
+      "label": "Season 3",
+      "episodes": [
+        {
+          "id": "s03e01",
+          "season": 3,
+          "episode": 1,
+          "titleJa": "狼煙",
+          "titleEn": "Smoke Signal",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_038.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_038.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 38 - Smoke Signal.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2038%20-%20Smoke%20Signal"
+            }
+          }
+        },
+        {
+          "id": "s03e02",
+          "season": 3,
+          "episode": 2,
+          "titleJa": "痛み",
+          "titleEn": "Pain",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_039.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_039.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 39 - Pain.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2039%20-%20Pain"
+            }
+          }
+        },
+        {
+          "id": "s03e03",
+          "season": 3,
+          "episode": 3,
+          "titleJa": "昔話",
+          "titleEn": "Old Story",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_040.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_040.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 40 - Old Story.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2040%20-%20Old%20Story"
+            }
+          }
+        },
+        {
+          "id": "s03e04",
+          "season": 3,
+          "episode": 4,
+          "titleJa": "信頼",
+          "titleEn": "Trust",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_041.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_041.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 41 - Trust.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2041%20-%20Trust"
+            }
+          }
+        },
+        {
+          "id": "s03e05",
+          "season": 3,
+          "episode": 5,
+          "titleJa": "回答",
+          "titleEn": "Reply",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_042.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_042.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 42 - Reply.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2042%20-%20Reply"
+            }
+          }
+        },
+        {
+          "id": "s03e06",
+          "season": 3,
+          "episode": 6,
+          "titleJa": "罪",
+          "titleEn": "Sin",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_043.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_043.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 43 - Sin.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2043%20-%20Sin"
+            }
+          }
+        },
+        {
+          "id": "s03e07",
+          "season": 3,
+          "episode": 7,
+          "titleJa": "願い",
+          "titleEn": "Wish",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_044.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_044.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 44 - Wish.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2044%20-%20Wish"
+            }
+          }
+        },
+        {
+          "id": "s03e08",
+          "season": 3,
+          "episode": 8,
+          "titleJa": "オルブド区外壁",
+          "titleEn": "Outside the Walls of Orvud District",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_045.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_045.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 45 - Outside the Walls of Orvud District.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2045%20-%20Outside%20the%20Walls%20of%20Orvud%20District"
+            }
+          }
+        },
+        {
+          "id": "s03e09",
+          "season": 3,
+          "episode": 9,
+          "titleJa": "壁の王",
+          "titleEn": "Ruler of the Walls",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_046.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_046.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 46 - Ruler of the Walls.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2046%20-%20Ruler%20of%20the%20Walls"
+            }
+          }
+        },
+        {
+          "id": "s03e10",
+          "season": 3,
+          "episode": 10,
+          "titleJa": "友人",
+          "titleEn": "Friends",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_047.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_047.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 47 - Friends.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2047%20-%20Friends"
+            }
+          }
+        },
+        {
+          "id": "s03e11",
+          "season": 3,
+          "episode": 11,
+          "titleJa": "傍観者",
+          "titleEn": "Bystander",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_048.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_048.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 48 - Bystander.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2048%20-%20Bystander"
+            }
+          }
+        },
+        {
+          "id": "s03e12",
+          "season": 3,
+          "episode": 12,
+          "titleJa": "奪還作戦の夜",
+          "titleEn": "Night of the Battle to Retake the Wall",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_049.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_049.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 49 - Night of the Battle to Retake the Wall.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2049%20-%20Night%20of%20the%20Battle%20to%20Retake%20the%20Wall"
+            }
+          }
+        },
+        {
+          "id": "s03e13",
+          "season": 3,
+          "episode": 13,
+          "titleJa": "はじまりの街",
+          "titleEn": "The Town Where Everything Began",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_050.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_050.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 50 - The Town Where Everything Began.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2050%20-%20The%20Town%20Where%20Everything%20Began"
+            }
+          }
+        },
+        {
+          "id": "s03e14",
+          "season": 3,
+          "episode": 14,
+          "titleJa": "雷槍",
+          "titleEn": "Thunder Spears",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_051.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_051.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 51 - Thunder Spears.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2051%20-%20Thunder%20Spears"
+            }
+          }
+        },
+        {
+          "id": "s03e15",
+          "season": 3,
+          "episode": 15,
+          "titleJa": "光臨",
+          "titleEn": "Descent",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_052.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_052.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 52 - Descent.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2052%20-%20Descent"
+            }
+          }
+        },
+        {
+          "id": "s03e16",
+          "season": 3,
+          "episode": 16,
+          "titleJa": "完全試合",
+          "titleEn": "Perfect Game",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_053.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_053.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 53 - Perfect Game.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2053%20-%20Perfect%20Game"
+            }
+          }
+        },
+        {
+          "id": "s03e17",
+          "season": 3,
+          "episode": 17,
+          "titleJa": "英雄",
+          "titleEn": "Hero",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_054.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_054.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 54 - Hero.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2054%20-%20Hero"
+            }
+          }
+        },
+        {
+          "id": "s03e18",
+          "season": 3,
+          "episode": 18,
+          "titleJa": "白夜",
+          "titleEn": "Midnight Sun",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_055.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_055.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 55 - Midnight Sun.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2055%20-%20Midnight%20Sun"
+            }
+          }
+        },
+        {
+          "id": "s03e19",
+          "season": 3,
+          "episode": 19,
+          "titleJa": "地下室",
+          "titleEn": "The Basement",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_056.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_056.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 56 - The Basement.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2056%20-%20The%20Basement"
+            }
+          }
+        },
+        {
+          "id": "s03e20",
+          "season": 3,
+          "episode": 20,
+          "titleJa": "あの日",
+          "titleEn": "That Day",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_057.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_057.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 57 - That Day.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2057%20-%20That%20Day"
+            }
+          }
+        },
+        {
+          "id": "s03e21",
+          "season": 3,
+          "episode": 21,
+          "titleJa": "進撃の巨人",
+          "titleEn": "Attack Titan",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_058.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_058.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 58 - Attack Titan.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2058%20-%20Attack%20Titan"
+            }
+          }
+        },
+        {
+          "id": "s03e22",
+          "season": 3,
+          "episode": 22,
+          "titleJa": "壁の向こう側",
+          "titleEn": "The Other Side of the Wall",
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko TV",
+              "filename": "Shingeki_No_Kyojin_059.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki_No_Kyojin/Shingeki_No_Kyojin_059.srt"
+            },
+            "en": {
+              "group": "Kira English honorifics",
+              "filename": "Attack on Titan - Episode 59 - The Other Side of the Wall.srt",
+              "url": "https://www.subtitlecat.com/index.php?search=Attack%20on%20Titan%20-%20Episode%2059%20-%20The%20Other%20Side%20of%20the%20Wall"
+            }
+          }
+        }
+      ]
     }
   ]
 }
