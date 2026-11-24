@@ -174,6 +174,18 @@
       "titleEn": "Pain",
       "jaSeconds": 602,
       "segments": 15
+    },
+    "s03e03": {
+      "id": "s03e03",
+      "titleEn": "Old Story",
+      "jaSeconds": 604,
+      "segments": 15
+    },
+    "s03e04": {
+      "id": "s03e04",
+      "titleEn": "Trust",
+      "jaSeconds": 603,
+      "segments": 15
     }
   }
 }
