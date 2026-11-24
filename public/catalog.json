@@ -126,6 +126,18 @@
       "titleEn": "Warrior",
       "jaSeconds": 603,
       "segments": 15
+    },
+    "s02e07": {
+      "id": "s02e07",
+      "titleEn": "Close Combat",
+      "jaSeconds": 612,
+      "segments": 15
+    },
+    "s02e08": {
+      "id": "s02e08",
+      "titleEn": "The Hunters",
+      "jaSeconds": 599,
+      "segments": 15
     }
   }
 }
