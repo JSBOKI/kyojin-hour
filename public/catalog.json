@@ -270,6 +270,18 @@
       "titleEn": "Midnight Sun",
       "jaSeconds": 616,
       "segments": 15
+    },
+    "s03e19": {
+      "id": "s03e19",
+      "titleEn": "The Basement",
+      "jaSeconds": 627,
+      "segments": 15
+    },
+    "s03e20": {
+      "id": "s03e20",
+      "titleEn": "That Day",
+      "jaSeconds": 627,
+      "segments": 15
     }
   }
 }
