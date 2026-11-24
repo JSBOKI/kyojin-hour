@@ -150,6 +150,18 @@
       "titleEn": "Children",
       "jaSeconds": 599,
       "segments": 15
+    },
+    "s02e11": {
+      "id": "s02e11",
+      "titleEn": "Charge",
+      "jaSeconds": 603,
+      "segments": 15
+    },
+    "s02e12": {
+      "id": "s02e12",
+      "titleEn": "Scream",
+      "jaSeconds": 623,
+      "segments": 15
     }
   }
 }
