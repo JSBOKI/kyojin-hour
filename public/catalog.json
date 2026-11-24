@@ -234,6 +234,18 @@
       "titleEn": "Night of the Battle to Retake the Wall",
       "jaSeconds": 623,
       "segments": 15
+    },
+    "s03e13": {
+      "id": "s03e13",
+      "titleEn": "The Town Where Everything Began",
+      "jaSeconds": 628,
+      "segments": 15
+    },
+    "s03e14": {
+      "id": "s03e14",
+      "titleEn": "Thunder Spears",
+      "jaSeconds": 628,
+      "segments": 15
     }
   }
 }
