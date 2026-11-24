@@ -186,6 +186,18 @@
       "titleEn": "Trust",
       "jaSeconds": 603,
       "segments": 15
+    },
+    "s03e05": {
+      "id": "s03e05",
+      "titleEn": "Reply",
+      "jaSeconds": 605,
+      "segments": 15
+    },
+    "s03e06": {
+      "id": "s03e06",
+      "titleEn": "Sin",
+      "jaSeconds": 600,
+      "segments": 15
     }
   }
 }
