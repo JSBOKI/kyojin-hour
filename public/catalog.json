@@ -138,6 +138,18 @@
       "titleEn": "The Hunters",
       "jaSeconds": 599,
       "segments": 15
+    },
+    "s02e09": {
+      "id": "s02e09",
+      "titleEn": "Opening",
+      "jaSeconds": 606,
+      "segments": 15
+    },
+    "s02e10": {
+      "id": "s02e10",
+      "titleEn": "Children",
+      "jaSeconds": 599,
+      "segments": 15
     }
   }
 }
