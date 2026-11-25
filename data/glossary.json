@@ -155,6 +155,9 @@
     {"id": "pieck", "kind": "character", "forms": ["ピーク"], "reading": "ピーク", "english": "Pieck", "note": "Pieck Finger, holder of the Cart Titan."},
     {"id": "porco", "kind": "character", "forms": ["ポルコ"], "reading": "ポルコ", "english": "Porco", "note": "Porco Galliard, holder of the Jaw Titan. He does not hide his contempt for Reiner."},
     {"id": "magath", "kind": "character", "forms": ["マガト"], "reading": "マガト", "english": "Magath", "note": "Theo Magath, a Marley officer who commands the warrior candidates in the field."},
-    {"id": "liberio", "kind": "place", "forms": ["リベリオ"], "reading": "リベリオ", "english": "Liberio", "note": "The internment zone in Marley where the warriors' families live."}
+    {"id": "liberio", "kind": "place", "forms": ["リベリオ"], "reading": "リベリオ", "english": "Liberio", "note": "The internment zone in Marley where the warriors' families live."},
+    {"id": "willy", "kind": "character", "forms": ["ヴィリー・タイバー", "ヴィリー"], "reading": "ヴィリー", "english": "Willy", "note": "Willy Tybur. He speaks for the family that kept a Titan out of Marley's wars."},
+    {"id": "tybur", "kind": "term", "forms": ["タイバー"], "reading": "タイバー", "english": "Tybur", "note": "The Tybur family. They hold a noble place in Marley and a Titan the army does not command."},
+    {"id": "war-hammer", "kind": "term", "forms": ["戦鎚の巨人", "戦鎚"], "reading": "せんつい", "english": "War Hammer", "note": "A Titan that builds weapons from its own body. The person need not sit in the nape."}
   ]
 }

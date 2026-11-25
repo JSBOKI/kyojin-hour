@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:58:40.972Z",
+  "generatedAt": "2026-11-25T09:14:16.942Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -365,6 +365,18 @@
       "id": "s04e02",
       "titleEn": "Midnight Train",
       "jaSeconds": 641,
+      "segments": 15
+    },
+    "s04e03": {
+      "id": "s04e03",
+      "titleEn": "The Door of Hope",
+      "jaSeconds": 613,
+      "segments": 15
+    },
+    "s04e04": {
+      "id": "s04e04",
+      "titleEn": "From One Hand to Another",
+      "jaSeconds": 610,
       "segments": 15
     }
   }
