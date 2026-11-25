@@ -402,6 +402,18 @@
       "titleEn": "Assassin's Bullet",
       "jaSeconds": 615,
       "segments": 15
+    },
+    "s04e09": {
+      "id": "s04e09",
+      "titleEn": "Brave Volunteers",
+      "jaSeconds": 622,
+      "segments": 15
+    },
+    "s04e10": {
+      "id": "s04e10",
+      "titleEn": "A Sound Argument",
+      "jaSeconds": 623,
+      "segments": 15
     }
   }
 }
