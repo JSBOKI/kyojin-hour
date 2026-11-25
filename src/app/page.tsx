@@ -22,7 +22,13 @@ export default async function HomePage() {
                 { label: "Part 1", episodes: season.episodes.filter((episode) => episode.episode <= 12) },
                 { label: "Part 2", episodes: season.episodes.filter((episode) => episode.episode >= 13) },
               ]
-            : [{ label: null as string | null, episodes: season.episodes }];
+            : season.season === 4
+              ? [
+                  { label: "Part 1", episodes: season.episodes.filter((episode) => episode.episode <= 16) },
+                  { label: "Part 2", episodes: season.episodes.filter((episode) => episode.episode >= 17 && episode.episode <= 28) },
+                  { label: "Final Chapters", episodes: season.episodes.filter((episode) => episode.episode >= 29) },
+                ]
+              : [{ label: null as string | null, episodes: season.episodes }];
         return (
           <section key={season.season} className="flex flex-col gap-4">
             <h2 className="text-3xl font-semibold">{season.label}</h2>

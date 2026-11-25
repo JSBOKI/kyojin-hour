@@ -146,6 +146,15 @@
     {"id": "thomas", "kind": "character", "forms": ["トーマス"], "reading": "トーマス", "english": "Thomas", "note": "Thomas Wagner, a cadet in Eren's first squad at Trost."},
     {"id": "scarf", "kind": "term", "forms": ["マフラー"], "reading": "マフラー", "english": "scarf", "note": "The red scarf Eren gives Mikasa. She keeps it on in battle."},
     {"id": "kruger", "kind": "character", "forms": ["クルーガー"], "reading": "クルーガー", "english": "Kruger", "note": "Eren Kruger, the Owl. He passes the Attack Titan to Grisha."},
-    {"id": "founding", "kind": "term", "forms": ["始祖の巨人", "始祖"], "reading": "しそ", "english": "Founding Titan", "note": "The coordinate. It answers royal blood, and Grisha takes it from Frieda."}
+    {"id": "founding", "kind": "term", "forms": ["始祖の巨人", "始祖"], "reading": "しそ", "english": "Founding Titan", "note": "The coordinate. It answers royal blood, and Grisha takes it from Frieda."},
+    {"id": "falco", "kind": "character", "forms": ["ファルコ・グライス", "ファルコ"], "reading": "ファルコ", "english": "Falco", "note": "Falco Grice, a Marley warrior candidate. He wants the Armored Titan so Gabi will not inherit it."},
+    {"id": "gabi", "kind": "character", "forms": ["ガビ・ブラウン", "ガビ"], "reading": "ガビ", "english": "Gabi", "note": "Gabi Braun, Reiner's cousin and a warrior candidate. She fights to be seen as useful to Marley."},
+    {"id": "colt", "kind": "character", "forms": ["コルト"], "reading": "コルト", "english": "Colt", "note": "Colt Grice, Falco's older brother and a warrior candidate."},
+    {"id": "udo", "kind": "character", "forms": ["ウド"], "reading": "ウド", "english": "Udo", "note": "Udo, a warrior candidate beside Gabi on the Marley front."},
+    {"id": "zofia", "kind": "character", "forms": ["ゾフィア"], "reading": "ゾフィア", "english": "Zofia", "note": "Zofia, a warrior candidate. She keeps the group's numbers and stays near Udo."},
+    {"id": "pieck", "kind": "character", "forms": ["ピーク"], "reading": "ピーク", "english": "Pieck", "note": "Pieck Finger, holder of the Cart Titan."},
+    {"id": "porco", "kind": "character", "forms": ["ポルコ"], "reading": "ポルコ", "english": "Porco", "note": "Porco Galliard, holder of the Jaw Titan. He does not hide his contempt for Reiner."},
+    {"id": "magath", "kind": "character", "forms": ["マガト"], "reading": "マガト", "english": "Magath", "note": "Theo Magath, a Marley officer who commands the warrior candidates in the field."},
+    {"id": "liberio", "kind": "place", "forms": ["リベリオ"], "reading": "リベリオ", "english": "Liberio", "note": "The internment zone in Marley where the warriors' families live."}
   ]
 }

@@ -1165,6 +1165,276 @@
           }
         }
       ]
+    },
+    {
+      "season": 4,
+      "label": "Season 4",
+      "episodes": [
+        {
+          "id": "s04e01",
+          "season": 4,
+          "episode": 1,
+          "titleJa": "海の向こう側",
+          "titleEn": "The Other Side of the Sea",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko CC",
+              "filename": "Attack on Titan-The Final Season_E60-The Other Side of the Ocean_ja[CC].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack%20on%20Titan-The%20Final%20Season_E60-The%20Other%20Side%20of%20the%20Ocean_ja%5BCC%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 01 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2001%20English%20%28US%29.html"
+            }
+          }
+        },
+        {
+          "id": "s04e02",
+          "season": 4,
+          "episode": 2,
+          "titleJa": "真夜中の列車",
+          "titleEn": "Midnight Train",
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "kitsunekko CC",
+              "filename": "Attack.on.Titan.The.Final.Season.E61.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.The.Final.Season.E61.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 02 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2002%20English%20%28US%29.html"
+            }
+          }
+        },
+        {
+          "id": "s04e03",
+          "season": 4,
+          "episode": 3,
+          "titleJa": "希望の扉",
+          "titleEn": "The Door of Hope",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e04",
+          "season": 4,
+          "episode": 4,
+          "titleJa": "手から手へ",
+          "titleEn": "From One Hand to Another",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e05",
+          "season": 4,
+          "episode": 5,
+          "titleJa": "宣戦布告",
+          "titleEn": "Declaration of War",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e06",
+          "season": 4,
+          "episode": 6,
+          "titleJa": "戦槌の巨人",
+          "titleEn": "The War Hammer Titan",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e07",
+          "season": 4,
+          "episode": 7,
+          "titleJa": "強襲",
+          "titleEn": "Assault",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e08",
+          "season": 4,
+          "episode": 8,
+          "titleJa": "凶弾",
+          "titleEn": "Assassin's Bullet",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e09",
+          "season": 4,
+          "episode": 9,
+          "titleJa": "義勇兵",
+          "titleEn": "Brave Volunteers",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e10",
+          "season": 4,
+          "episode": 10,
+          "titleJa": "正論",
+          "titleEn": "A Sound Argument",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e11",
+          "season": 4,
+          "episode": 11,
+          "titleJa": "偽り者",
+          "titleEn": "Deceiver",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e12",
+          "season": 4,
+          "episode": 12,
+          "titleJa": "導く者",
+          "titleEn": "Guides",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e13",
+          "season": 4,
+          "episode": 13,
+          "titleJa": "森の子ら",
+          "titleEn": "Children of the Forest",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e14",
+          "season": 4,
+          "episode": 14,
+          "titleJa": "暴悪",
+          "titleEn": "Savagery",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e15",
+          "season": 4,
+          "episode": 15,
+          "titleJa": "唯一の救い",
+          "titleEn": "Sole Salvation",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e16",
+          "season": 4,
+          "episode": 16,
+          "titleJa": "天地",
+          "titleEn": "Above and Below",
+          "part": "Part 1"
+        },
+        {
+          "id": "s04e17",
+          "season": 4,
+          "episode": 17,
+          "titleJa": "断罪",
+          "titleEn": "Judgment",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e18",
+          "season": 4,
+          "episode": 18,
+          "titleJa": "闇夜の槍",
+          "titleEn": "Sneak Attack",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e19",
+          "season": 4,
+          "episode": 19,
+          "titleJa": "兄と弟",
+          "titleEn": "Two Brothers",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e20",
+          "season": 4,
+          "episode": 20,
+          "titleJa": "未来の記憶",
+          "titleEn": "Memories of the Future",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e21",
+          "season": 4,
+          "episode": 21,
+          "titleJa": "二千年後の君から",
+          "titleEn": "From You, 2,000 Years Ago",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e22",
+          "season": 4,
+          "episode": 22,
+          "titleJa": "氷解",
+          "titleEn": "Thaw",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e23",
+          "season": 4,
+          "episode": 23,
+          "titleJa": "夕焼け",
+          "titleEn": "Sunset",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e24",
+          "season": 4,
+          "episode": 24,
+          "titleJa": "矜持",
+          "titleEn": "Pride",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e25",
+          "season": 4,
+          "episode": 25,
+          "titleJa": "終末の夜",
+          "titleEn": "Night of the End",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e26",
+          "season": 4,
+          "episode": 26,
+          "titleJa": "裏切り者",
+          "titleEn": "Traitor",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e27",
+          "season": 4,
+          "episode": 27,
+          "titleJa": "懐旧",
+          "titleEn": "Retrospective",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e28",
+          "season": 4,
+          "episode": 28,
+          "titleJa": "人類の夜明け",
+          "titleEn": "The Dawn of Humanity",
+          "part": "Part 2"
+        },
+        {
+          "id": "s04e29",
+          "season": 4,
+          "episode": 29,
+          "titleJa": "完結編（前編）",
+          "titleEn": "Final Chapters Special 1",
+          "part": "Final Chapters"
+        },
+        {
+          "id": "s04e30",
+          "season": 4,
+          "episode": 30,
+          "titleJa": "完結編（後編）",
+          "titleEn": "Final Chapters Special 2",
+          "part": "Final Chapters"
+        }
+      ]
     }
   ]
 }
