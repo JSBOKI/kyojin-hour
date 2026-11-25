@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:40:27.011Z",
+  "generatedAt": "2026-11-25T10:50:49.947Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -509,6 +509,18 @@
       "id": "s04e26",
       "titleEn": "Traitor",
       "jaSeconds": 612,
+      "segments": 15
+    },
+    "s04e27": {
+      "id": "s04e27",
+      "titleEn": "Retrospective",
+      "jaSeconds": 620,
+      "segments": 15
+    },
+    "s04e28": {
+      "id": "s04e28",
+      "titleEn": "The Dawn of Humanity",
+      "jaSeconds": 619,
       "segments": 15
     }
   }
