@@ -1376,7 +1376,19 @@
           "episode": 11,
           "titleJa": "偽り者",
           "titleEn": "Deceiver",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E70.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E70.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 11 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2011%20English%20%28US%29.html"
+            }
+          }
         },
         {
           "id": "s04e12",
@@ -1384,7 +1396,19 @@
           "episode": 12,
           "titleJa": "導く者",
           "titleEn": "Guides",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E71.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E71.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Addic7ed English",
+              "filename": "Attack on Titan (2013) - 04x12 - Guides.English.srt",
+              "url": "https://www.subtitlecat.com/subs/263/Attack%20on%20Titan%20%282013%29%20-%2004x12%20-%20Guides.WEB.x264-URANiME.English.C.updated.Addic7ed.com.html"
+            }
+          }
         },
         {
           "id": "s04e13",
@@ -1392,7 +1416,19 @@
           "episode": 13,
           "titleJa": "森の子ら",
           "titleEn": "Children of the Forest",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E72.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E72.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan - 4x13 - Children of the Forest.WEB.en.srt",
+              "url": "https://www.subtitlecat.com/subs/987/Attack%20on%20Titan%20-%204x13%20-%20Children%20of%20the%20Forest.WEB.en.html"
+            }
+          }
         },
         {
           "id": "s04e14",
@@ -1400,7 +1436,19 @@
           "episode": 14,
           "titleJa": "暴悪",
           "titleEn": "Savagery",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E73.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E73.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Addic7ed English",
+              "filename": "Attack on Titan (2013) - 04x14 - Savagery.English.srt",
+              "url": "https://www.subtitlecat.com/subs/263/Attack%20on%20Titan%20%282013%29%20-%2004x14%20-%20Savagery.Crunchyroll.English.C.updated.Addic7ed.com.html"
+            }
+          }
         },
         {
           "id": "s04e15",
