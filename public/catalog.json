@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:47:00.168Z",
+  "generatedAt": "2026-11-25T09:51:34.681Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -425,6 +425,18 @@
       "id": "s04e12",
       "titleEn": "Guides",
       "jaSeconds": 612,
+      "segments": 15
+    },
+    "s04e13": {
+      "id": "s04e13",
+      "titleEn": "Children of the Forest",
+      "jaSeconds": 621,
+      "segments": 15
+    },
+    "s04e14": {
+      "id": "s04e14",
+      "titleEn": "Savagery",
+      "jaSeconds": 605,
       "segments": 15
     }
   }
