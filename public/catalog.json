@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:14:16.942Z",
+  "generatedAt": "2026-11-25T09:33:21.474Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -389,6 +389,18 @@
       "id": "s04e06",
       "titleEn": "The War Hammer Titan",
       "jaSeconds": 611,
+      "segments": 15
+    },
+    "s04e07": {
+      "id": "s04e07",
+      "titleEn": "Assault",
+      "jaSeconds": 620,
+      "segments": 15
+    },
+    "s04e08": {
+      "id": "s04e08",
+      "titleEn": "Assassin's Bullet",
+      "jaSeconds": 615,
       "segments": 15
     }
   }

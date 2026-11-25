@@ -158,6 +158,8 @@
     {"id": "liberio", "kind": "place", "forms": ["リベリオ"], "reading": "リベリオ", "english": "Liberio", "note": "The internment zone in Marley where the warriors' families live."},
     {"id": "willy", "kind": "character", "forms": ["ヴィリー・タイバー", "ヴィリー"], "reading": "ヴィリー", "english": "Willy", "note": "Willy Tybur. He speaks for the family that kept a Titan out of Marley's wars."},
     {"id": "tybur", "kind": "term", "forms": ["タイバー"], "reading": "タイバー", "english": "Tybur", "note": "The Tybur family. They hold a noble place in Marley and a Titan the army does not command."},
-    {"id": "war-hammer", "kind": "term", "forms": ["戦鎚の巨人", "戦鎚"], "reading": "せんつい", "english": "War Hammer", "note": "A Titan that builds weapons from its own body. The person need not sit in the nape."}
+    {"id": "war-hammer", "kind": "term", "forms": ["戦鎚の巨人", "戦鎚"], "reading": "せんつい", "english": "War Hammer", "note": "A Titan that builds weapons from its own body. The person need not sit in the nape."},
+    {"id": "yelena", "kind": "character", "forms": ["イェレナ"], "reading": "イェレナ", "english": "Yelena", "note": "A Marley volunteer who comes to the island with Zeke's plan and treats the Survey Corps as allies."},
+    {"id": "onyankopon", "kind": "character", "forms": ["オニャンコポン"], "reading": "オニャンコポン", "english": "Onyankopon", "note": "A volunteer engineer. He keeps the airship and the machines running for the island."}
   ]
 }

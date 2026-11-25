@@ -1296,7 +1296,19 @@
           "episode": 7,
           "titleJa": "強襲",
           "titleEn": "Assault",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E66.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E66.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 07 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2007%20English%20%28US%29.html"
+            }
+          }
         },
         {
           "id": "s04e08",
@@ -1304,7 +1316,19 @@
           "episode": 8,
           "titleJa": "凶弾",
           "titleEn": "Assassin's Bullet",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E67.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E67.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 08 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2008%20English%20%28US%29.html"
+            }
+          }
         },
         {
           "id": "s04e09",
@@ -1312,7 +1336,19 @@
           "episode": 9,
           "titleJa": "義勇兵",
           "titleEn": "Brave Volunteers",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E68.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E68.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 09 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2009%20English%20%28US%29.html"
+            }
+          }
         },
         {
           "id": "s04e10",
@@ -1320,7 +1356,19 @@
           "episode": 10,
           "titleJa": "正論",
           "titleEn": "A Sound Argument",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E69.WEBRip.Netflix.ja[cc].srt.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E69.WEBRip.Netflix.ja%5Bcc%5D.srt.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan Final Season - 10 English (US)-en.srt",
+              "url": "https://www.subtitlecat.com/subs/252/%5BSubtitleTools.com%5D%20%5BCrunchyroll%5D%20Attack%20on%20Titan%20Final%20Season%20-%2010%20English%20%28US%29.html"
+            }
+          }
         },
         {
           "id": "s04e11",
