@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:37:42.566Z",
+  "generatedAt": "2026-11-25T10:40:27.011Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -497,6 +497,18 @@
       "id": "s04e24",
       "titleEn": "Pride",
       "jaSeconds": 604,
+      "segments": 15
+    },
+    "s04e25": {
+      "id": "s04e25",
+      "titleEn": "Night of the End",
+      "jaSeconds": 610,
+      "segments": 15
+    },
+    "s04e26": {
+      "id": "s04e26",
+      "titleEn": "Traitor",
+      "jaSeconds": 612,
       "segments": 15
     }
   }
