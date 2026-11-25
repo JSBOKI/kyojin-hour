@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-24T23:13:17.639Z",
+  "generatedAt": "2026-11-25T08:28:03.219Z",
   "episodes": {
+    "s01e01": {
+      "id": "s01e01",
+      "titleEn": "To You, in 2000 Years",
+      "jaSeconds": 636,
+      "segments": 15
+    },
+    "s01e02": {
+      "id": "s01e02",
+      "titleEn": "That Day",
+      "jaSeconds": 649,
+      "segments": 15
+    },
     "s01e11": {
       "id": "s01e11",
       "titleEn": "Icon",

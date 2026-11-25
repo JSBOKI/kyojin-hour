@@ -14,28 +14,76 @@
           "season": 1,
           "episode": 1,
           "titleJa": "二千年後の君へ",
-          "titleEn": "To You, in 2000 Years"
+          "titleEn": "To You, in 2000 Years",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 01 [1280x720 x264 AAC Sub(Chi,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2001%20%5B1280x720%20x264%20AAC%20Sub%28Chi%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 01.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/01/Attack%20On%20Titan%20-%2001.srt"
+            }
+          }
         },
         {
           "id": "s01e02",
           "season": 1,
           "episode": 2,
           "titleJa": "その日",
-          "titleEn": "That Day"
+          "titleEn": "That Day",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 02 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2002%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 02.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/02/Attack%20On%20Titan%20-%2002.srt"
+            }
+          }
         },
         {
           "id": "s01e03",
           "season": 1,
           "episode": 3,
           "titleJa": "絶望の中で鈍く光る",
-          "titleEn": "A Dim Light Amid Despair"
+          "titleEn": "A Dim Light Amid Despair",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 03 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2003%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 03.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/03/Attack%20On%20Titan%20-%2003.srt"
+            }
+          }
         },
         {
           "id": "s01e04",
           "season": 1,
           "episode": 4,
           "titleJa": "解散式の夜",
-          "titleEn": "The Night of the Closing Ceremony"
+          "titleEn": "The Night of the Closing Ceremony",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 04 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2004%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 04.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/04/Attack%20On%20Titan%20-%2004.srt"
+            }
+          }
         },
         {
           "id": "s01e05",

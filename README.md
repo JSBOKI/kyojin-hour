@@ -2,7 +2,7 @@
 
 A personal Japanese listening podcast for Jeremy. Each episode of *Shingeki no Kyojin* (Attack on Titan) becomes an original scene-by-scene retelling, told twice: once in intermediate Japanese, once in English. A large Japanese / English control switches the voice and keeps the same scene.
 
-Season 1 Episodes 11 through 25, Season 2, and Season 3 are recorded. Later episodes run about ten to eleven minutes in Japanese and about nine minutes in English. The episode list is grouped by season. Season 3 is also split into Part 1 and Part 2.
+Season 1 Episodes 1, 2, and 11 through 25, Season 2, and Season 3 are recorded. Episodes 3 through 10 are still listed and not recorded yet. Later episodes run about ten to eleven minutes in Japanese and about nine minutes in English. The episode list is grouped by season. Season 3 is also split into Part 1 and Part 2.
 
 This is study material, not a substitute for the show. Watch the episode on a legal copy you already have. The podcast does not host video, and it does not use the anime’s dialogue.
 
@@ -86,7 +86,7 @@ Episode 11’s vocabulary pass used:
 - Japanese: kitsunekko, group **Kamigami**, `[Kamigami] Shingeki no Kyojin - 11 … Sub(GB,Big5,Jap).ass`. The loose Season 1 file for this episode is Kamigami’s. Coalgirls is a `.7z` of the season, HorribleSubs Season 1 is a `.rar`, and Judas is a zip, so they are not what the build fetched.
 - English: the subtitle archival repo, group **Funimation [CC]**, `Attack On Titan - 11.srt`.
 
-The build keeps Japanese dialogue styles whose names contain `JP` (Season 1 uses `JP`; Season 2 Kamigami uses `单JP`) and drops openings, credits, Chinese styles, and karaoke. Those cues are held in memory for the overlap check and then discarded. Season 2 English files are the HorribleSubs set from kitsunekko, because the Season 1 Funimation [CC] archive does not include Season 2. Season 3 Japanese files are the numbered TV rips `Shingeki_No_Kyojin_038` through `_059` from kitsunekko. Season 3 English files are the Kira BD English honorifics tracks.
+The build keeps Japanese dialogue styles whose names contain `JP` (Season 1 uses `JP`; Season 2 Kamigami uses `单JP`) and drops openings, credits, Chinese styles, and karaoke. Those cues are held in memory for the overlap check and then discarded. Season 2 English files are the HorribleSubs set from kitsunekko, because the Season 1 Funimation [CC] archive does not include Season 2. Season 3 Japanese files are the numbered TV rips `Shingeki_No_Kyojin_038` through `_059` from kitsunekko. Season 3 English files are the Kira BD English honorifics tracks. Season 1 episodes 1 through 4 use the same Kamigami and Funimation [CC] sources as episode 11. Episode 1’s Japanese file is labeled `Sub(Chi,Jap)`, and the English filenames are zero-padded (`01` through `04`).
 
 ## Deploy
 

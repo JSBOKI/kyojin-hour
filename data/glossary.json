@@ -3,7 +3,7 @@
   "notes": "Fixed readings and English renderings for Shingeki no Kyojin. The build matches longer forms first, so names and corps stay consistent across episodes.",
   "entries": [
     {"id": "titan", "kind": "term", "forms": ["巨人"], "reading": "きょじん", "english": "Titan", "note": "The human-eating giants. In this series the word is a name, not the ordinary word for a large person."},
-    {"id": "colossal", "kind": "term", "forms": ["超大型巨人"], "reading": "ちょうおおがたきょじん", "english": "Colossal Titan", "note": "The enormous Titan that broke Trost's outer gate."},
+    {"id": "colossal", "kind": "term", "forms": ["超大型巨人"], "reading": "ちょうおおがたきょじん", "english": "Colossal Titan", "note": "The enormous Titan that broke the outer gates at Shiganshina and later at Trost."},
     {"id": "armored", "kind": "term", "forms": ["鎧の巨人"], "reading": "よろいのきょじん", "english": "Armored Titan"},
     {"id": "female", "kind": "term", "forms": ["女型の巨人"], "reading": "めがたのきょじん", "english": "Female Titan"},
     {"id": "attack-titan", "kind": "term", "forms": ["進撃の巨人"], "reading": "しんげきのきょじん", "english": "Attack Titan", "note": "The Titan's name. The series title in English is Attack on Titan."},
@@ -139,6 +139,10 @@
     {"id": "basement", "kind": "place", "forms": ["地下室"], "reading": "ちかしつ", "english": "basement", "note": "Grisha's basement in Shiganshina. The key has been waiting since the fall of Wall Maria."},
     {"id": "thunder-spear", "kind": "term", "forms": ["雷槍"], "reading": "らいそう", "english": "thunder spear", "note": "A new explosive spear made to crack armor."},
     {"id": "owl", "kind": "character", "forms": ["フクロウ"], "reading": "フクロウ", "english": "the Owl", "note": "The informer inside Marley who chooses Grisha."},
+    {"id": "refugee", "kind": "term", "forms": ["難民"], "reading": "なんみん", "english": "refugee", "note": "People who fled Shiganshina after Wall Maria fell."},
+    {"id": "graduation", "kind": "term", "forms": ["卒業"], "reading": "そつぎょう", "english": "graduation", "note": "The night the Training Corps finishes and the top cadets choose a regiment."},
+    {"id": "rank", "kind": "term", "forms": ["順位"], "reading": "じゅんい", "english": "rank", "note": "The cadet ranking. The top ten may apply to the Military Police."},
+    {"id": "gate", "kind": "term", "forms": ["門"], "reading": "もん", "english": "gate", "note": "A district gate in the wall. Breaking it lets Titans into the town."},
     {"id": "kruger", "kind": "character", "forms": ["クルーガー"], "reading": "クルーガー", "english": "Kruger", "note": "Eren Kruger, the Owl. He passes the Attack Titan to Grisha."},
     {"id": "founding", "kind": "term", "forms": ["始祖の巨人", "始祖"], "reading": "しそ", "english": "Founding Titan", "note": "The coordinate. It answers royal blood, and Grisha takes it from Frieda."}
   ]

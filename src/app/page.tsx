@@ -27,48 +27,44 @@ export default async function HomePage() {
           <section key={season.season} className="flex flex-col gap-4">
             <h2 className="text-3xl font-semibold">{season.label}</h2>
             {blocks.map((block) => {
-              const ready = block.episodes.filter((episode) => catalog.episodes[episode.id]);
               const waiting = block.episodes.filter((episode) => !catalog.episodes[episode.id]);
               return (
                 <div key={block.label ?? "all"} className="flex flex-col gap-4">
                   {block.label ? <h3 className="text-2xl font-semibold">{block.label}</h3> : null}
-                  {ready.map((episode) => {
+                  {block.episodes.map((episode) => {
                     const info = catalog.episodes[episode.id];
+                    if (info) {
+                      return (
+                        <Link
+                          key={episode.id}
+                          href={`/listen/${episode.id}`}
+                          className="block rounded-3xl bg-primary px-5 py-6 text-primary-foreground"
+                        >
+                          <p className="text-lg">Ready to play</p>
+                          <p className="mt-1 text-4xl font-semibold leading-tight">
+                            {episode.episode}. {episode.titleEn}
+                          </p>
+                          <p className="mt-1 text-2xl">{episode.titleJa}</p>
+                          <p className="mt-3 text-xl">
+                            {`${formatClock(info.jaSeconds)} of Japanese · ${info.segments} scenes`}
+                          </p>
+                        </Link>
+                      );
+                    }
                     return (
-                      <Link
-                        key={episode.id}
-                        href={`/listen/${episode.id}`}
-                        className="block rounded-3xl bg-primary px-5 py-6 text-primary-foreground"
-                      >
-                        <p className="text-lg">Ready to play</p>
-                        <p className="mt-1 text-4xl font-semibold leading-tight">
+                      <div key={episode.id} className="rounded-2xl border bg-card px-4 py-4">
+                        <p className="text-2xl font-medium">
                           {episode.episode}. {episode.titleEn}
                         </p>
-                        <p className="mt-1 text-2xl">{episode.titleJa}</p>
-                        <p className="mt-3 text-xl">
-                          {info ? `${formatClock(info.jaSeconds)} of Japanese · ${info.segments} scenes` : "Open episode"}
-                        </p>
-                      </Link>
+                        <p className="text-xl">{episode.titleJa}</p>
+                        <p className="mt-1 text-lg text-muted-foreground">Not recorded</p>
+                      </div>
                     );
                   })}
                   {waiting.length > 0 ? (
-                    <div>
-                      <h3 className="text-2xl font-semibold">Not recorded yet</h3>
-                      <p className="mt-2 text-lg leading-relaxed text-muted-foreground">
-                        Adding one is a catalog line, an original script, and one command.
-                      </p>
-                      <ol className="mt-4 flex flex-col gap-3">
-                        {waiting.map((episode) => (
-                          <li key={episode.id} className="rounded-2xl border bg-card px-4 py-4">
-                            <p className="text-2xl font-medium">
-                              {episode.episode}. {episode.titleEn}
-                            </p>
-                            <p className="text-xl">{episode.titleJa}</p>
-                            <p className="mt-1 text-lg text-muted-foreground">Not recorded</p>
-                          </li>
-                        ))}
-                      </ol>
-                    </div>
+                    <p className="text-lg leading-relaxed text-muted-foreground">
+                      A missing episode is a catalog line, an original script, and one command.
+                    </p>
                   ) : null}
                 </div>
               );
