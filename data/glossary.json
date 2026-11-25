@@ -143,6 +143,8 @@
     {"id": "graduation", "kind": "term", "forms": ["卒業"], "reading": "そつぎょう", "english": "graduation", "note": "The night the Training Corps finishes and the top cadets choose a regiment."},
     {"id": "rank", "kind": "term", "forms": ["順位"], "reading": "じゅんい", "english": "rank", "note": "The cadet ranking. The top ten may apply to the Military Police."},
     {"id": "gate", "kind": "term", "forms": ["門"], "reading": "もん", "english": "gate", "note": "A district gate in the wall. Breaking it lets Titans into the town."},
+    {"id": "thomas", "kind": "character", "forms": ["トーマス"], "reading": "トーマス", "english": "Thomas", "note": "Thomas Wagner, a cadet in Eren's first squad at Trost."},
+    {"id": "scarf", "kind": "term", "forms": ["マフラー"], "reading": "マフラー", "english": "scarf", "note": "The red scarf Eren gives Mikasa. She keeps it on in battle."},
     {"id": "kruger", "kind": "character", "forms": ["クルーガー"], "reading": "クルーガー", "english": "Kruger", "note": "Eren Kruger, the Owl. He passes the Attack Titan to Grisha."},
     {"id": "founding", "kind": "term", "forms": ["始祖の巨人", "始祖"], "reading": "しそ", "english": "Founding Titan", "note": "The coordinate. It answers royal blood, and Grisha takes it from Frieda."}
   ]

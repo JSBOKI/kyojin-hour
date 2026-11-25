@@ -90,28 +90,76 @@
           "season": 1,
           "episode": 5,
           "titleJa": "初陣",
-          "titleEn": "First Battle"
+          "titleEn": "First Battle",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 05 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2005%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 05.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/05/Attack%20On%20Titan%20-%2005.srt"
+            }
+          }
         },
         {
           "id": "s01e06",
           "season": 1,
           "episode": 6,
           "titleJa": "少女が見た世界",
-          "titleEn": "The World the Girl Saw"
+          "titleEn": "The World the Girl Saw",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 06 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2006%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 06.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/06/Attack%20On%20Titan%20-%2006.srt"
+            }
+          }
         },
         {
           "id": "s01e07",
           "season": 1,
           "episode": 7,
           "titleJa": "小さな刃",
-          "titleEn": "Small Blade"
+          "titleEn": "Small Blade",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 07 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2007%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 07.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/07/Attack%20On%20Titan%20-%2007.srt"
+            }
+          }
         },
         {
           "id": "s01e08",
           "season": 1,
           "episode": 8,
           "titleJa": "心臓の鼓動が聞こえる",
-          "titleEn": "I Can Hear His Heartbeat"
+          "titleEn": "I Can Hear His Heartbeat",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 08 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2008%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 08.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/08/Attack%20On%20Titan%20-%2008.srt"
+            }
+          }
         },
         {
           "id": "s01e09",

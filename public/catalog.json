@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:28:03.219Z",
+  "generatedAt": "2026-11-25T08:41:41.951Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -23,6 +23,18 @@
       "id": "s01e04",
       "titleEn": "The Night of the Closing Ceremony",
       "jaSeconds": 655,
+      "segments": 15
+    },
+    "s01e05": {
+      "id": "s01e05",
+      "titleEn": "First Battle",
+      "jaSeconds": 640,
+      "segments": 15
+    },
+    "s01e06": {
+      "id": "s01e06",
+      "titleEn": "The World the Girl Saw",
+      "jaSeconds": 625,
       "segments": 15
     },
     "s01e11": {
