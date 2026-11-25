@@ -82,6 +82,8 @@
     {"id": "experiment", "kind": "term", "forms": ["実験"], "reading": "じっけん", "english": "experiment", "note": "Hange's tests on captured Titans, and later on Eren's transformation."},
     {"id": "hearing", "kind": "term", "forms": ["審議"], "reading": "しんぎ", "english": "hearing", "note": "The military hearing that decides who will have custody of Eren."},
     {"id": "hitch", "kind": "character", "forms": ["ヒッチ"], "reading": "ヒッチ", "english": "Hitch", "note": "Hitch Dreyse, a Military Police recruit stationed near Annie."},
+    {"id": "azumabito", "kind": "term", "forms": ["アズマビト"], "reading": "アズマビト", "english": "Azumabito", "note": "The family from Hizuru that keeps the flying boat. The alliance needs that craft to reach the march."},
+    {"id": "kiyomi", "kind": "character", "forms": ["キヨミ"], "reading": "キヨミ", "english": "Kiyomi", "note": "Kiyomi Azumabito. She brings the flying boat to the island's port."},
     {"id": "marlo", "kind": "character", "forms": ["マルロ"], "reading": "マルロ", "english": "Marlo", "note": "Marlo Freudenberg, a Military Police recruit who still treats the rules as real."},
     {"id": "hardening", "kind": "term", "forms": ["硬質化", "硬化"], "reading": "こうしつ・こうか", "english": "hardening", "note": "The ability to harden a Titan's body. Eren trains it to plug the hole in Wall Maria."},
     {"id": "capital", "kind": "place", "forms": ["王都"], "reading": "おうと", "english": "royal capital", "note": "The capital inside Wall Sina. The escort story says Eren is being taken there."},

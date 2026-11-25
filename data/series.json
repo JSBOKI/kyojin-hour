@@ -1616,7 +1616,19 @@
           "episode": 23,
           "titleJa": "夕焼け",
           "titleEn": "Sunset",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 82.ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20%28The%20Final%20Season%29%20-%2082.ass"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 23 Sunset-en.srt",
+              "url": "https://www.subtitlecat.com/subs/439/Attack%20On%20Titan%20Final%20Season%20episode%2023%20Sunset.html"
+            }
+          }
         },
         {
           "id": "s04e24",
@@ -1624,7 +1636,19 @@
           "episode": 24,
           "titleJa": "矜持",
           "titleEn": "Pride",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 83.ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20%28The%20Final%20Season%29%20-%2083.ass"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 24 Pride-en.srt",
+              "url": "https://www.subtitlecat.com/subs/439/Attack%20On%20Titan%20Final%20Season%20episode%2024%20Pride.html"
+            }
+          }
         },
         {
           "id": "s04e25",
@@ -1632,7 +1656,19 @@
           "episode": 25,
           "titleJa": "終末の夜",
           "titleEn": "Night of the End",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 84.ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20%28The%20Final%20Season%29%20-%2084.ass"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 25 Night of the End-en.srt",
+              "url": "https://www.subtitlecat.com/subs/439/Attack%20On%20Titan%20Final%20Season%20episode%2025%20Night%20of%20the%20End.html"
+            }
+          }
         },
         {
           "id": "s04e26",
@@ -1640,7 +1676,19 @@
           "episode": 26,
           "titleJa": "裏切り者",
           "titleEn": "Traitor",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 85.ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20%28The%20Final%20Season%29%20-%2085.ass"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 26 Traitor-en.srt",
+              "url": "https://www.subtitlecat.com/subs/439/Attack%20On%20Titan%20Final%20Season%20episode%2026%20Traitor.html"
+            }
+          }
         },
         {
           "id": "s04e27",

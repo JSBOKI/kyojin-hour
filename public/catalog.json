@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:27:03.520Z",
+  "generatedAt": "2026-11-25T10:37:42.566Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -485,6 +485,18 @@
       "id": "s04e22",
       "titleEn": "Thaw",
       "jaSeconds": 611,
+      "segments": 15
+    },
+    "s04e23": {
+      "id": "s04e23",
+      "titleEn": "Sunset",
+      "jaSeconds": 611,
+      "segments": 15
+    },
+    "s04e24": {
+      "id": "s04e24",
+      "titleEn": "Pride",
+      "jaSeconds": 604,
       "segments": 15
     }
   }
