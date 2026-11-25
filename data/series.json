@@ -1456,7 +1456,19 @@
           "episode": 15,
           "titleJa": "唯一の救い",
           "titleEn": "Sole Salvation",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA CC",
+              "filename": "Attack.on.Titan.S05E74.WEBRip.Netflix.ja[cc].srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack.on.Titan.S05E74.WEBRip.Netflix.ja%5Bcc%5D.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan - 4x15 - Sole Salvation.WEB.en.srt",
+              "url": "https://www.subtitlecat.com/subs/987/Attack%20on%20Titan%20-%204x15%20-%20Sole%20Salvation.WEB.en.html"
+            }
+          }
         },
         {
           "id": "s04e16",
@@ -1464,7 +1476,19 @@
           "episode": 16,
           "titleJa": "天地",
           "titleEn": "Above and Below",
-          "part": "Part 1"
+          "part": "Part 1",
+          "privateSubs": {
+            "ja": {
+              "group": "Netflix JA",
+              "filename": "Attack on Titan-S5_E75-Above and Below_ja.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/Attack%20on%20Titan-S5_E75-Above%20and%20Below_ja.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan - 4x16 - Above and Below.WEB.en.srt",
+              "url": "https://www.subtitlecat.com/subs/988/Attack%20on%20Titan%20-%204x16%20-%20Above%20and%20Below.WEB.en.html"
+            }
+          }
         },
         {
           "id": "s04e17",
@@ -1472,7 +1496,19 @@
           "episode": 17,
           "titleJa": "断罪",
           "titleEn": "Judgment",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 76 (1080p) [4A116C1E].ja.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20(The%20Final%20Season)%20-%2076%20(1080p)%20%5B4A116C1E%5D.ja.srt"
+            },
+            "en": {
+              "group": "Crunchyroll English",
+              "filename": "Attack on Titan - 4x17 - Judgement.WEB.en.srt",
+              "url": "https://www.subtitlecat.com/subs/904/Attack%20on%20Titan%20-%204x17%20-%20Judgement.WEB.en.html"
+            }
+          }
         },
         {
           "id": "s04e18",
@@ -1480,7 +1516,19 @@
           "episode": 18,
           "titleJa": "闇夜の槍",
           "titleEn": "Sneak Attack",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 77 (1080p) [426E8818].ja.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20(The%20Final%20Season)%20-%2077%20(1080p)%20%5B426E8818%5D.ja.srt"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 18 Sneak Attack-en.srt",
+              "url": "https://www.subtitlecat.com/subs/974/Attack%20On%20Titan%20Final%20Season%20episode%2018%20Sneak%20Attack.html"
+            }
+          }
         },
         {
           "id": "s04e19",

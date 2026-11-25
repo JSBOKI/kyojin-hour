@@ -162,6 +162,7 @@
     {"id": "yelena", "kind": "character", "forms": ["イェレナ"], "reading": "イェレナ", "english": "Yelena", "note": "A Marley volunteer who comes to the island with Zeke's plan and treats the Survey Corps as allies."},
     {"id": "onyankopon", "kind": "character", "forms": ["オニャンコポン"], "reading": "オニャンコポン", "english": "Onyankopon", "note": "A volunteer engineer. He keeps the airship and the machines running for the island."},
     {"id": "niccolo", "kind": "character", "forms": ["ニコロ"], "reading": "ニコロ", "english": "Niccolo", "note": "A Marley cook on the island. He fed the corps, and he loved Sasha."},
-    {"id": "kaya", "kind": "character", "forms": ["カヤ"], "reading": "カヤ", "english": "Kaya", "note": "A girl from Sasha's village. She was saved once, and she meets Gabi without knowing the shot."}
+    {"id": "kaya", "kind": "character", "forms": ["カヤ"], "reading": "カヤ", "english": "Kaya", "note": "A girl from Sasha's village. She was saved once, and she meets Gabi without knowing the shot."},
+    {"id": "ksaver", "kind": "character", "forms": ["クサヴァー"], "reading": "クサヴァー", "english": "Ksaver", "note": "Tom Ksaver, the Beast Titan before Zeke. He played catch with the boy and offered a plan to end Eldian births."}
   ]
 }

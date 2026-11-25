@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:51:34.681Z",
+  "generatedAt": "2026-11-25T10:06:44.302Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -437,6 +437,18 @@
       "id": "s04e14",
       "titleEn": "Savagery",
       "jaSeconds": 605,
+      "segments": 15
+    },
+    "s04e15": {
+      "id": "s04e15",
+      "titleEn": "Sole Salvation",
+      "jaSeconds": 605,
+      "segments": 15
+    },
+    "s04e16": {
+      "id": "s04e16",
+      "titleEn": "Above and Below",
+      "jaSeconds": 610,
       "segments": 15
     }
   }
