@@ -1536,7 +1536,19 @@
           "episode": 19,
           "titleJa": "兄と弟",
           "titleEn": "Two Brothers",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 78 (1080p) [5AFF5292].ja.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20(The%20Final%20Season)%20-%2078%20(1080p)%20%5B5AFF5292%5D.ja.srt"
+            },
+            "en": {
+              "group": "Bluray English",
+              "filename": "Attack on Titan - S04E19 - Two Brothers Bluray-1080p.en.srt",
+              "url": "https://www.subtitlecat.com/subs/1667/Attack%20on%20Titan%20-%20S04E19%20-%20Two%20Brothers%20Bluray-1080p.en.html"
+            }
+          }
         },
         {
           "id": "s04e20",
@@ -1544,7 +1556,19 @@
           "episode": 20,
           "titleJa": "未来の記憶",
           "titleEn": "Memories of the Future",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 79 (1080p) [6606CE3E].ja.srt",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20(The%20Final%20Season)%20-%2079%20(1080p)%20%5B6606CE3E%5D.ja.srt"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 20 Memories of the future-en.srt",
+              "url": "https://www.subtitlecat.com/subs/439/Attack%20On%20Titan%20Final%20Season%20episode%2020%20Memories%20of%20the%20future.html"
+            }
+          }
         },
         {
           "id": "s04e21",
@@ -1552,7 +1576,19 @@
           "episode": 21,
           "titleJa": "二千年後の君から",
           "titleEn": "From You, 2,000 Years Ago",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 80.ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20(The%20Final%20Season)%20-%2080.ass"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 21 From you, 2000 years ago -en.srt",
+              "url": "https://www.subtitlecat.com/subs/975/Attack%20On%20Titan%20Final%20Season%20episode%2021%20From%20you%2C%202000%20years%20ago%20.html"
+            }
+          }
         },
         {
           "id": "s04e22",
@@ -1560,7 +1596,19 @@
           "episode": 22,
           "titleJa": "氷解",
           "titleEn": "Thaw",
-          "part": "Part 2"
+          "part": "Part 2",
+          "privateSubs": {
+            "ja": {
+              "group": "SubsPlease JA",
+              "filename": "[SubsPlease] Shingeki no Kyojin (The Final Season) - 81.ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BSubsPlease%5D%20Shingeki%20no%20Kyojin%20(The%20Final%20Season)%20-%2081.ass"
+            },
+            "en": {
+              "group": "English fansub",
+              "filename": "Attack On Titan Final Season episode 22 Thaw-en.srt",
+              "url": "https://www.subtitlecat.com/subs/439/Attack%20On%20Titan%20Final%20Season%20episode%2022%20Thaw.html"
+            }
+          }
         },
         {
           "id": "s04e23",

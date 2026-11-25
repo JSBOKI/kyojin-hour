@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:10:06.712Z",
+  "generatedAt": "2026-11-25T10:23:26.830Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -461,6 +461,18 @@
       "id": "s04e18",
       "titleEn": "Sneak Attack",
       "jaSeconds": 612,
+      "segments": 15
+    },
+    "s04e19": {
+      "id": "s04e19",
+      "titleEn": "Two Brothers",
+      "jaSeconds": 609,
+      "segments": 15
+    },
+    "s04e20": {
+      "id": "s04e20",
+      "titleEn": "Memories of the Future",
+      "jaSeconds": 603,
       "segments": 15
     }
   }
