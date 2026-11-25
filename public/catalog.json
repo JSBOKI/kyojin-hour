@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:41:41.951Z",
+  "generatedAt": "2026-11-25T08:58:40.972Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -47,6 +47,18 @@
       "id": "s01e08",
       "titleEn": "I Can Hear His Heartbeat",
       "jaSeconds": 612,
+      "segments": 15
+    },
+    "s01e09": {
+      "id": "s01e09",
+      "titleEn": "Whereabouts of His Left Arm",
+      "jaSeconds": 622,
+      "segments": 15
+    },
+    "s01e10": {
+      "id": "s01e10",
+      "titleEn": "Response",
+      "jaSeconds": 634,
       "segments": 15
     },
     "s01e11": {

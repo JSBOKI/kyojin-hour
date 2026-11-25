@@ -166,14 +166,38 @@
           "season": 1,
           "episode": 9,
           "titleJa": "左腕の行方",
-          "titleEn": "Whereabouts of His Left Arm"
+          "titleEn": "Whereabouts of His Left Arm",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 09 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2009%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 09.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/09/Attack%20On%20Titan%20-%2009.srt"
+            }
+          }
         },
         {
           "id": "s01e10",
           "season": 1,
           "episode": 10,
           "titleJa": "応える",
-          "titleEn": "Response"
+          "titleEn": "Response",
+          "privateSubs": {
+            "ja": {
+              "group": "Kamigami",
+              "filename": "[Kamigami] Shingeki no Kyojin - 10 [1280x720 x264 AAC Sub(GB,Big5,Jap)].ass",
+              "url": "https://kitsunekko.net/subtitles/japanese/Shingeki%20no%20Kyojin/%5BKamigami%5D%20Shingeki%20no%20Kyojin%20-%2010%20%5B1280x720%20x264%20AAC%20Sub%28GB%2CBig5%2CJap%29%5D.ass"
+            },
+            "en": {
+              "group": "Funimation [CC]",
+              "filename": "Attack On Titan - 10.srt",
+              "url": "https://raw.githubusercontent.com/Subtitle-Archival-Initiative/anime-subtitle-archival/English/Shingeki%20no%20Kyojin%20%5Ba9541%5D/Funimation%20%5BCC%5D/10/Attack%20On%20Titan%20-%2010.srt"
+            }
+          }
         },
         {
           "id": "s01e11",
