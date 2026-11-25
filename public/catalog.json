@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:50:49.947Z",
+  "generatedAt": "2026-11-25T10:54:13.676Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -521,6 +521,18 @@
       "id": "s04e28",
       "titleEn": "The Dawn of Humanity",
       "jaSeconds": 619,
+      "segments": 15
+    },
+    "s04e29": {
+      "id": "s04e29",
+      "titleEn": "Final Chapters Special 1",
+      "jaSeconds": 618,
+      "segments": 15
+    },
+    "s04e30": {
+      "id": "s04e30",
+      "titleEn": "Final Chapters Special 2",
+      "jaSeconds": 618,
       "segments": 15
     }
   }
