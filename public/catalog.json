@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:23:26.830Z",
+  "generatedAt": "2026-11-25T10:27:03.520Z",
   "episodes": {
     "s01e01": {
       "id": "s01e01",
@@ -473,6 +473,18 @@
       "id": "s04e20",
       "titleEn": "Memories of the Future",
       "jaSeconds": 603,
+      "segments": 15
+    },
+    "s04e21": {
+      "id": "s04e21",
+      "titleEn": "From You, 2,000 Years Ago",
+      "jaSeconds": 617,
+      "segments": 15
+    },
+    "s04e22": {
+      "id": "s04e22",
+      "titleEn": "Thaw",
+      "jaSeconds": 611,
       "segments": 15
     }
   }
